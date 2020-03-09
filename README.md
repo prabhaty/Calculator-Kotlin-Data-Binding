@@ -1,5 +1,5 @@
 # Calculator-Kotlin-Data-Binding
-Simple calculator with kotlin, and data binding.
+Simple calculator by using below library and technology.
 
 * Kotlin
 * data Binding
