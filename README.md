@@ -16,6 +16,6 @@ Simple calculator with kotlin, and data binding.
 * Percentage 
 
  
-![1](https://user-images.githubusercontent.com/13636983/76231548-68e30880-624b-11ea-8533-bb2676881f7d.jpg)
-![2](https://user-images.githubusercontent.com/13636983/76231558-6bddf900-624b-11ea-8ea9-6a0f8eb89cca.jpg)
-![3](https://user-images.githubusercontent.com/13636983/76231561-6d0f2600-624b-11ea-80a1-6f3d31b0003d.jpg)
+![2](https://user-images.githubusercontent.com/13636983/76233145-c24c3700-624d-11ea-89c4-e86d8ec9ebb2.jpg)
+![3](https://user-images.githubusercontent.com/13636983/76233155-c5472780-624d-11ea-8ce3-582cadf2903c.jpg)
+![1](https://user-images.githubusercontent.com/13636983/76233157-c5dfbe00-624d-11ea-97c6-10b2d4dc4703.jpg)
